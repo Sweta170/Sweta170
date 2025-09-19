@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Sweta Kumari  
+# Hi 👋, I'm Sweta Kumari           
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=800&lines=Web+Developer;DSA+Enthusiast;Tech+Mentor;Code.+Debug.+Repeat.;Turning+coffee+into+code.;Dreaming+in+Java+%26+JavaScript;Exploring+AI+%26+Full+Stack;Open+Source+Contributor;Always+learning+%26+sharing+knowledge)](https://git.io/typing-svg)
+
+ 
 
 💻 **DSA | Web Dev | Mentoring | Empowering Growth**  
 
@@ -60,7 +64,6 @@ With a strong interest in **DSA and real-world projects**, I’m continuously le
 | **💬 ChitChat** | Laravel, PHP, MySQL | A modern chat application built using MVC architecture. | [Repo](https://github.com/Sweta170/chitchat) |
 | **🎨 GenzAI** | MERN + DALL·E API | AI-powered platform that turns text prompts into images, with a community showcase. | [Repo](https://github.com/Sweta170/GenAI) |
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Web+Developer;DSA+Enthusiast;Tech+Mentor)](https://git.io/typing-svg)
 
 
 ### ✨ Fun Fact
